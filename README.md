@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bbortolato
+- 👀 I’m interested in positions like QA Specialist/Senior or maybe a flutter development.
+- 🌱 I’m currently learning Flutter and K6
+- 💞️ I’m looking to collaborate on Flutter Projects, QA Automation
+- 📫 How to reach me bbortolato@gmail.com
